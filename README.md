@@ -1,16 +1,28 @@
-## Hi there 👋
+# João Martins
+Cibersegurança | Ciência de Dados | Back-end Developer
 
-<!--
-**JMarttb/jmarttb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim:
+- 💻 Pós-Graduação em Segurança da informação (em andamento).
+- 🎓 Doutorando do PPG em Biologia Molecular da Universidade de Brasília.
+- 🌱 Sempre aprendendo e explorando novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Habilidades Técnicas:
+- **Cibersegurança:** Nessus, Sophos, LGPD, ISO 27000.
+- **Análise de Dados:** Python, Databricks, PySpark, Cognos Analytics.
+- **Desenvolvimento Back-end:** Java, Spring Framework.
+- **Outras Habilidades:** APIs RESTful, AWS Cloud, Redes, Métodos Ágeis, Banco de Dados.
+- **Idiomas:** Inglês (Avançado).
+
+---
+
+### 📫 Contato:
+- **LinkedIn:** [www.linkedin.com/in/j-mbarbosa](www.linkedin.com/in/j-mbarbosa)
+- **E-mail:** joao_jmb@hotmail.com
+
+---
+
+**“Sempre buscando aprender, inovar e compartilhar conhecimento.”**
